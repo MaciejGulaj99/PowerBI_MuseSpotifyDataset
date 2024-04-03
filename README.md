@@ -27,3 +27,7 @@ I used ideas for simple analitycal tasks Tim's repository. There are all describ
 ## Analysis
 
 ## Dashboard
+
+
+
+![gif-muse1](https://github.com/MaciejGulaj99/PowerBI_MuseSpotifyDataset/assets/142632444/babab9c0-c813-4779-96a2-4abbd787bd97)
