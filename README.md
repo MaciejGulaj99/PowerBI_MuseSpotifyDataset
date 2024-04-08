@@ -32,10 +32,13 @@ Let's try answer this questions.
 ![obraz](https://github.com/MaciejGulaj99/PowerBI_MuseSpotifyDataset/assets/142632444/06675cda-3340-4af1-8172-f30e1e281e37)
 
 We can notice that the longest songs on album are in concert album called "HAARP" with 308 seconds (5:08) on average.
+Below, there is a Treemap Chart using album's theme colors added by field rules.
+
+![obraz](https://github.com/MaciejGulaj99/PowerBI_MuseSpotifyDataset/assets/142632444/430fc5a0-4de1-4399-bc77-281a0bbb0e79)
 
 
 ## Dashboard
 
-1. Tooltips overview on 'General Info' page
+###1. Tooltips overview on 'General Info' page
 
 ![gif-muse1](https://github.com/MaciejGulaj99/PowerBI_MuseSpotifyDataset/assets/142632444/babab9c0-c813-4779-96a2-4abbd787bd97)
