@@ -26,8 +26,15 @@ I used ideas for simple analitycal tasks Tim's repository. There are all describ
 
 ## Analysis
 
+Let's try answer this questions.
+1. First of all, we should create some measures and charts. Task looks quite simple, so we can limit ourselves to basic stuff. We will need average song duration (in original dataset we have miliseconds, i converted to seconds) and 'album-name' to build vertical and horizontal Bar Charts and Matrix with descending sorting.
+
+![obraz](https://github.com/MaciejGulaj99/PowerBI_MuseSpotifyDataset/assets/142632444/06675cda-3340-4af1-8172-f30e1e281e37)
+
+We can notice that the longest songs on album are in concert album called "HAARP" with 308 seconds (5:08) on average.
+
+
 ## Dashboard
 
-
-
+1. Tooltips overview on 'General Info' page 
 ![gif-muse1](https://github.com/MaciejGulaj99/PowerBI_MuseSpotifyDataset/assets/142632444/babab9c0-c813-4779-96a2-4abbd787bd97)
