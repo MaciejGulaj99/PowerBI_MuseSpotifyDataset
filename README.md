@@ -34,7 +34,7 @@ First of all, we should create some measures and charts. Task looks quite simple
 ![obraz](https://github.com/MaciejGulaj99/PowerBI_MuseSpotifyDataset/assets/142632444/06675cda-3340-4af1-8172-f30e1e281e37)
 
 We can notice that the longest songs on album are in concert album called "HAARP" with 308 seconds (5:08) on average.
-Below, there is a Treemap Chart using album's theme colors added by field rules.
+Below, there is a Treemap Chart using album's theme colors added by field rules. In top-left corner we have Album Name and in bottom-left average song duration. The biggest tile always sits in top-left chart corner.
 
 ![obraz](https://github.com/MaciejGulaj99/PowerBI_MuseSpotifyDataset/assets/142632444/430fc5a0-4de1-4399-bc77-281a0bbb0e79)
 
