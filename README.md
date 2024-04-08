@@ -19,15 +19,17 @@ Data was collected on 14/12/2022 and includes all Muse songs that feature on alb
 
 I used ideas for simple analitycal tasks Tim's repository. There are all described below:
 
-### 1. Which album has the longest songs?
-### 2. Has the mood of songs gotten happier, sadder, or remained the same throughout Muse's career?
-### 3. Is there any correlation between popularity and key, energy or danceability?
+#### 1. Which album has the longest songs?
+#### 2. Has the mood of songs gotten happier, sadder, or remained the same throughout Muse's career?
+#### 3. Is there any correlation between popularity and key, energy or danceability?
 
 
 ## Analysis
 
 Let's try answer this questions.
-1. First of all, we should create some measures and charts. Task looks quite simple, so we can limit ourselves to basic stuff. We will need average song duration (in original dataset we have miliseconds, i converted to seconds) and 'album-name' to build vertical and horizontal Bar Charts and Matrix with descending sorting.
+
+#### 1. Which album has the longest songs?
+First of all, we should create some measures and charts. Task looks quite simple, so we can limit ourselves to basic stuff. We will need average song duration (in original dataset we have miliseconds, i converted to seconds) and 'album-name' to build vertical and horizontal Bar Charts and Matrix with descending sorting.
 
 ![obraz](https://github.com/MaciejGulaj99/PowerBI_MuseSpotifyDataset/assets/142632444/06675cda-3340-4af1-8172-f30e1e281e37)
 
