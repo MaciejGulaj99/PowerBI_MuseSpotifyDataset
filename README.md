@@ -36,5 +36,6 @@ We can notice that the longest songs on album are in concert album called "HAARP
 
 ## Dashboard
 
-1. Tooltips overview on 'General Info' page 
+1. Tooltips overview on 'General Info' page
+
 ![gif-muse1](https://github.com/MaciejGulaj99/PowerBI_MuseSpotifyDataset/assets/142632444/babab9c0-c813-4779-96a2-4abbd787bd97)
