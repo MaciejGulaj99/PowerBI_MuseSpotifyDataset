@@ -40,6 +40,14 @@ Below, there is a Treemap Chart using album's theme colors added by field rules.
 ![obraz](https://github.com/MaciejGulaj99/PowerBI_MuseSpotifyDataset/assets/142632444/430fc5a0-4de1-4399-bc77-281a0bbb0e79)
 
 
+#### 2. Has the mood of songs gotten happier, sadder, or remained the same throughout Muse's career?
+
+Mood of the songs has been described by "Valence" value. Let's try design line chart with 'album-id' (to be able to sort) on X-axis and 'AverageValence' on Y-axis. For better readability we can add 'album-name' in tooltip. Also, on analitycs page we can add 'Trend line' which give us clearly indicator whether 'valence' going higher or lower.
+
+![obraz](https://github.com/MaciejGulaj99/PowerBI_MuseSpotifyDataset/assets/142632444/dbca702c-c8b2-44ea-ae09-210867cc61b6)
+
+So, we can see that trend line is rising which indicates that Muse songs have been happier throughout their career.
+
 ## Dashboard
 
 ### 1. Tooltips overview on 'General Info' page
