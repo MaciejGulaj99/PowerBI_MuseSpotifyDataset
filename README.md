@@ -54,7 +54,7 @@ So, we can see that trend line is rising which indicates that Muse songs have be
 
 #### 3. Is there any correlation between popularity and valence, energy or danceability?
 
-Yes, there is but we should look at this problem from two dimensions. First of all, let's calculate Pearson's Correlation for all of the songs:
+Yes, there is but we should look at this problem from more than one dimension. First of all, let's calculate Pearson's Correlation for all of the songs:
 
 ![obraz](https://github.com/MaciejGulaj99/PowerBI_MuseSpotifyDataset/assets/142632444/ec8560c7-4930-48a1-bac6-b4817672706b)
 
