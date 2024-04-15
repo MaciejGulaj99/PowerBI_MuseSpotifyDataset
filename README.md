@@ -21,7 +21,7 @@ I used ideas for simple analitycal tasks Tim's repository. There are all describ
 
 #### 1. Which album has the longest songs?
 #### 2. Have the mood of songs gotten happier, sadder, or remained the same throughout Muse's career?
-#### 3. Is there any correlation between popularity and key, energy or danceability?
+#### 3. Is there any correlation between popularity and valence, energy or danceability?
 
 
 ## Analysis
@@ -49,9 +49,13 @@ Mood of the songs has been described by "Valence" value. Let's try design line c
 So, we can see that trend line is rising which indicates that Muse songs have been happier throughout their career.
 
 
-#### 3. Is there any correlation between popularity and key, energy or danceability?
+#### 3. Is there any correlation between popularity and valence, energy or danceability?
 
+Yes, there is but we should look at this problem from two dimensions. First of all, let's calcutalte Pearson's Correlation for all of the songs:
 
+![obraz](https://github.com/MaciejGulaj99/PowerBI_MuseSpotifyDataset/assets/142632444/ec8560c7-4930-48a1-bac6-b4817672706b)
+
+We can see that, there is no correlation between popularity and energy and quite a little between popularity/danceability and popularity/valence.
 
 ## Dashboard
 
