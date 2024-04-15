@@ -61,7 +61,8 @@ Yes, there is but we should look at this problem from more than one dimension. F
 We can see that, there is no correlation between popularity and energy and quite a little between popularity/danceability and popularity/valence. Let's dig in into that.
 Take a look on individual albums, which of these have the strongest or the weakeast correlation.
 
-![obraz](https://github.com/MaciejGulaj99/PowerBI_MuseSpotifyDataset/assets/142632444/57f58b43-f3aa-402f-a79d-19996e849f0b)
+
+![obraz](https://github.com/MaciejGulaj99/PowerBI_MuseSpotifyDataset/assets/142632444/1ab5881c-551b-4581-aee8-f351d06e6f11)
 
 
 
