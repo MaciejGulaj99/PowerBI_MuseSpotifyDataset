@@ -64,7 +64,7 @@ Take a look on individual albums, which of these have the strongest or the weake
 ![obraz](https://github.com/MaciejGulaj99/PowerBI_MuseSpotifyDataset/assets/142632444/1ab5881c-551b-4581-aee8-f351d06e6f11)
 
 | Pearson correlation coefficient (r) value |	Strength |	Direction |
-|-------------------------------------------------------------------|
+|----------------------------------|--------------|--|-----------------|
 | Greater than .5 	Strong 	Positive
 Between .3 and .5 	Moderate 	Positive
 Between 0 and .3 	Weak 	Positive
