@@ -77,14 +77,17 @@ A quick reminder, how we should interpet our calculate values:
 
 Source: https://www.scribbr.com/statistics/pearson-correlation-coefficient/
 
-###### 1. Popularity / Valence Correlation
+    ###### 1. Popularity / Valence Correlation
 
-###### 2. Popularity / Danceability Correlation
+      As we can see, the strongest correlation have Origin of Symmetry (XxX), Absolution, Will of the People and HAARP.
+      Moderate correlation have The Resistance, Drones, Black Holes and Revelations and Simulation Theory
 
-###### 3. Popularity / Energy Correlation
+    ###### 2. Popularity / Danceability Correlation
+
+    ###### 3. Popularity / Energy Correlation
 
 ## Dashboard
 
-### 1. Tooltips overview on 'General Info' page
+  ### 1. Tooltips overview on 'General Info' page
 
-![gif-muse1](https://github.com/MaciejGulaj99/PowerBI_MuseSpotifyDataset/assets/142632444/babab9c0-c813-4779-96a2-4abbd787bd97)
+  ![gif-muse1](https://github.com/MaciejGulaj99/PowerBI_MuseSpotifyDataset/assets/142632444/babab9c0-c813-4779-96a2-4abbd787bd97)
