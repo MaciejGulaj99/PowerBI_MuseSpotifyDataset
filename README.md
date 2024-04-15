@@ -74,7 +74,14 @@ A quick reminder, how we should interpet our calculate values:
 | Between 0 and –.3 | Weak | Negative |
 | Between –.3 and –.5 | Moderate | Negative |
 | Less than –.5 | Strong | Negative |
+
 Source: https://www.scribbr.com/statistics/pearson-correlation-coefficient/
+
+###### 1. Popularity / Valence Correlation
+
+###### 2. Popularity / Danceability Correlation
+
+###### 3. Popularity / Energy Correlation
 
 ## Dashboard
 
