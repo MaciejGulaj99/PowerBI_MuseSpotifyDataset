@@ -80,7 +80,7 @@ Source: https://www.scribbr.com/statistics/pearson-correlation-coefficient/
 ###### 1. Popularity / Valence Correlation
 
 As we can see, the strongest correlation have Origin of Symmetry (XxX), Absolution, Will of the People and HAARP.
-Moderate correlation have The Resistance, Drones, Black Holes and Revelations and Simulation Theory
+Moderate correlation have The Resistance, Drones, Black Holes and Revelations and Simulation Theory.
 
 ###### 2. Popularity / Danceability Correlation
 
