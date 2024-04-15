@@ -17,7 +17,7 @@ Data was collected on 14/12/2022 and includes all Muse songs that feature on alb
 
 ## Analitycal Questions
 
-I used ideas for simple analitycal tasks Tim's repository. There are all described below:
+I used ideas for simple analitycal tasks from Tim's repository. There are all described below:
 
 #### 1. Which album has the longest songs?
 #### 2. Have the mood of songs gotten happier, sadder, or remained the same throughout Muse's career?
