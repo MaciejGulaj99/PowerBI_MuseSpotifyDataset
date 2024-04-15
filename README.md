@@ -59,7 +59,7 @@ Yes, there is but we should look at this problem from two dimensions. First of a
 ![obraz](https://github.com/MaciejGulaj99/PowerBI_MuseSpotifyDataset/assets/142632444/ec8560c7-4930-48a1-bac6-b4817672706b)
 
 We can see that, there is no correlation between popularity and energy and quite a little between popularity/danceability and popularity/valence. Let's dig in into that.
-
+Take a look on idvidual albums, which of these have 
 
 
 ## Dashboard
