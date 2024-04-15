@@ -17,16 +17,17 @@ Data was collected on 14/12/2022 and includes all Muse songs that feature on alb
 
 ## Analitycal Questions
 
-I used ideas for simple analitycal tasks Tim's repository. There are all described below:
+I used ideas for simple analitycal tasks from Tim's repository. There are all described below:
 
 #### 1. Which album has the longest songs?
-#### 2. Has the mood of songs gotten happier, sadder, or remained the same throughout Muse's career?
-#### 3. Is there any correlation between popularity and key, energy or danceability?
+#### 2. Have the mood of songs gotten happier, sadder, or remained the same throughout Muse's career?
+#### 3. Is there any correlation between popularity and valence, energy or danceability?
 
 
 ## Analysis
 
 Let's try answer this questions.
+
 
 #### 1. Which album has the longest songs?
 First of all, we should create some measures and charts. Task looks quite simple, so we can limit ourselves to basic stuff. We will need average song duration (in original dataset we have miliseconds, i converted to seconds) and 'album-name' to build vertical and horizontal Bar Charts and Matrix with descending sorting.
@@ -40,8 +41,53 @@ Below, there is a Treemap Chart using album's theme colors added by field rules.
 ![obraz](https://github.com/MaciejGulaj99/PowerBI_MuseSpotifyDataset/assets/142632444/430fc5a0-4de1-4399-bc77-281a0bbb0e79)
 
 
+
+#### 2. Have the mood of songs gotten happier, sadder, or remained the same throughout Muse's career?
+
+Mood of the songs has been described by "Valence" value. Let's try design line chart with 'album-id' (to be able to sort) on X-axis and 'AverageValence' on Y-axis. For better readability we can add 'album-name' in tooltip. Also, on analitycs page we can add 'Trend line' which give us clearly indicator whether 'valence' going higher or lower. Before that, remeber to sort albums from earliest to latest.
+
+![obraz](https://github.com/MaciejGulaj99/PowerBI_MuseSpotifyDataset/assets/142632444/dbca702c-c8b2-44ea-ae09-210867cc61b6)
+
+So, we can see that trend line is rising which indicates that Muse songs have been happier throughout their career.
+
+
+
+#### 3. Is there any correlation between popularity and valence, energy or danceability?
+
+Yes, there is but we should look at this problem from more than one dimension. First of all, let's calculate Pearson's Correlation for all of the songs:
+
+![obraz](https://github.com/MaciejGulaj99/PowerBI_MuseSpotifyDataset/assets/142632444/ec8560c7-4930-48a1-bac6-b4817672706b)
+
+We can see that, there is no correlation between popularity and energy and quite a little between popularity/danceability and popularity/valence. Let's dig in into that.
+Take a look on individual albums, which of these have the strongest or the weakeast correlation.
+
+![obraz](https://github.com/MaciejGulaj99/PowerBI_MuseSpotifyDataset/assets/142632444/1ab5881c-551b-4581-aee8-f351d06e6f11)
+
+A quick reminder, how we should interpet our calculate values:
+
+| Pearson correlation coefficient (r) value |	Strength |	Direction |
+|-------------------------------------------|----------|------------|
+| Greater than .5 | Strong |	Positive |
+| Between .3 and .5 | Moderate | Positive |
+| Between 0 and .3 | Weak | Positive |
+| 0 | None | None |
+| Between 0 and –.3 | Weak | Negative |
+| Between –.3 and –.5 | Moderate | Negative |
+| Less than –.5 | Strong | Negative |
+
+Source: https://www.scribbr.com/statistics/pearson-correlation-coefficient/
+
+###### 1. Popularity / Valence Correlation
+
+As we can see, the strongest correlation have Origin of Symmetry (XxX), Absolution, Will of the People and HAARP.
+Moderate correlation have The Resistance, Drones, Black Holes and Revelations and Simulation Theory.
+
+###### 2. Popularity / Danceability Correlation
+
+###### 3. Popularity / Energy Correlation
+
 ## Dashboard
 
-### 1. Tooltips overview on 'General Info' page
+  ### 1. Tooltips overview on 'General Info' page
 
-![gif-muse1](https://github.com/MaciejGulaj99/PowerBI_MuseSpotifyDataset/assets/142632444/babab9c0-c813-4779-96a2-4abbd787bd97)
+  ![gif-muse1](https://github.com/MaciejGulaj99/PowerBI_MuseSpotifyDataset/assets/142632444/babab9c0-c813-4779-96a2-4abbd787bd97)
