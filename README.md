@@ -84,6 +84,8 @@ Moderate correlation have The Resistance, Drones, Black Holes and Revelations an
 
 ###### 2. Popularity / Danceability Correlation
 
+
+
 ###### 3. Popularity / Energy Correlation
 
 ## Dashboard
@@ -91,3 +93,12 @@ Moderate correlation have The Resistance, Drones, Black Holes and Revelations an
   ### 1. Tooltips overview on 'General Info' page
 
   ![gif-muse1](https://github.com/MaciejGulaj99/PowerBI_MuseSpotifyDataset/assets/142632444/babab9c0-c813-4779-96a2-4abbd787bd97)
+
+
+  ### 2. Tooltips overview on 'Correlations' page
+
+
+  ### 3. Album's filtering
+
+
+  ### 4. Chart filtering using parameter
