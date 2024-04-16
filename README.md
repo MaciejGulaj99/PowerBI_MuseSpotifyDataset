@@ -54,6 +54,11 @@ So, we can see that trend line is rising which indicates that Muse songs have be
 
 #### 3. Is there any correlation between popularity and valence, energy or danceability?
 
+##### Pearson's vs Spearman's Correlation
+
+https://www.statystyka.eu/korelacja-rho-spearmana.php
+https://cyrkiel.info/statystyka/wspolczynnik-korelacji-rang-spearmana/
+
 Yes, there is but we should look at this problem from more than one dimension. First of all, let's calculate Pearson's Correlation for all of the songs:
 
 ![obraz](https://github.com/MaciejGulaj99/PowerBI_MuseSpotifyDataset/assets/142632444/ec8560c7-4930-48a1-bac6-b4817672706b)
@@ -77,16 +82,6 @@ A quick reminder, how we should interpet our calculate values:
 
 Source: https://www.scribbr.com/statistics/pearson-correlation-coefficient/
 
-###### 1. Popularity / Valence Correlation
-
-As we can see, the strongest correlation have Origin of Symmetry (XxX), Absolution, Will of the People and HAARP.
-Moderate correlation have The Resistance, Drones, Black Holes and Revelations and Simulation Theory.
-
-###### 2. Popularity / Danceability Correlation
-
-
-
-###### 3. Popularity / Energy Correlation
 
 ## Dashboard
 
@@ -102,3 +97,4 @@ Moderate correlation have The Resistance, Drones, Black Holes and Revelations an
 
 
   ### 4. Chart filtering using parameter
+
