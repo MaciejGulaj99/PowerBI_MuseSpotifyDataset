@@ -97,6 +97,10 @@ Source: https://www.scribbr.com/statistics/pearson-correlation-coefficient/
 
   ### 3. Album's filtering
 
+  ![gif3](https://github.com/MaciejGulaj99/PowerBI_MuseSpotifyDataset/assets/142632444/59392071-12eb-4e7a-b46e-85dbe76324f1)
+
 
   ### 4. Chart filtering using parameter
+
+  
 
