@@ -102,5 +102,6 @@ Source: https://www.scribbr.com/statistics/pearson-correlation-coefficient/
 
   ### 4. Chart filtering using parameter
 
-  
+  ![gif4](https://github.com/MaciejGulaj99/PowerBI_MuseSpotifyDataset/assets/142632444/1e6add80-0c67-4975-8cd5-371479c224ad)
+
 
