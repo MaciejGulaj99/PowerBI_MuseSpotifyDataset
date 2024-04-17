@@ -92,6 +92,8 @@ Source: https://www.scribbr.com/statistics/pearson-correlation-coefficient/
 
   ### 2. Tooltips overview on 'Correlations' page
 
+  ![gif2](https://github.com/MaciejGulaj99/PowerBI_MuseSpotifyDataset/assets/142632444/87676e9b-a75d-4993-923a-cdaa8bcc0f7a)
+
 
   ### 3. Album's filtering
 
